@@ -65,7 +65,7 @@ def hill_cipher(message):
     print("Decoded message :", dec)
 
 if __name__ == "__main__":
-    msg = "Anirudh"
+    msg = "karthik krishna"
     print("Simulation of Hill Cipher")
     print("Input message :", msg)
     hill_cipher(msg)
